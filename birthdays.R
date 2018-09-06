@@ -5,7 +5,7 @@
 # When is your birthdate? Only Month and day. 
 # Format "Month/date". For example for date "January 9th", we write "01/09"
 Bridget <- "WRITE YOUR FIRST NAME HERE"
-20/04 <- "DATE HERE IN FORMAT DD/MM"
+04/20 <- "DATE HERE IN FORMAT DD/MM"
 
 
 # When done, save, commit, push and make your first pull request.
